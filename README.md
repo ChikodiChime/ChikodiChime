@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/koooddiiii" target="blank"><img src="https://img.shields.io/twitter/follow/koooddiiii?logo=twitter&style=for-the-badge" alt="koooddiiii" /></a> </p>
 
-- 🔭 I’m currently working on **Lilies Food**
+- 🔭 I’m currently working on **Tribes Nigeria**
 
 - 🌱 I’m currently learning **Express js, Mongodb**
 
