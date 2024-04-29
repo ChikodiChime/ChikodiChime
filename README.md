@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **chikkychime@gmail.com**
+- 📫 How to reach me **chimechikodinaka@gmail.com**
 
 - ⚡ Fun fact **I move with light and joy, I love positivity and I actually am funny**
 
