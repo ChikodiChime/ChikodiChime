@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Tribes Nigeria**
 
-- 🌱 I’m currently learning **Express js, Mongodb**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **react**
 
