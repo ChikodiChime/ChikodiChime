@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chikodi Chime</h1>
 <h3 align="center">Front-end Web Developer</h3>
-<p align="center"> Dedicated React.js developer with a mastery of CSS and its frameworks. Bringing a unique flair to web development thanks to a background in graphic design, I pay meticulous attention to details. Whether it's pixel-perfect alignment or crafting visually stunning UIs, I strive for excellence in every line of code. Let's create remarkable digital experiences that blend functionality with aesthetics.</p>
+<p align="center"> React.js developer with a mastery of CSS and its frameworks. Bringing a unique flair to web development thanks to a background in graphic design, I pay meticulous attention to details. Whether it's pixel-perfect alignment or crafting visually stunning UIs, I strive for excellence in every line of code. Let's create remarkable digital experiences that blend functionality with aesthetics.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chikodichime&label=Profile%20views&color=0e75b6&style=flat" alt="chikodichime" /> </p>
 
 <p align="left"> <a href="https://twitter.com/koooddiiii" target="blank"><img src="https://img.shields.io/twitter/follow/koooddiiii?logo=twitter&style=for-the-badge" alt="koooddiiii" /></a> </p>
 
-- 🔭 I’m currently working on **Tribes Nigeria**
 
 - 🌱 I’m currently learning **Typescript**
 
